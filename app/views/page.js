@@ -14,7 +14,7 @@ export default function Page() {
                         <iframe
                             key={item.id}
                             src={item.src}
-                            className="w-96 h-[700px] p-3 m-3 rounded-xl"
+                            className="w-96 h-[710px] p-3 m-3 rounded-xl"
                         />
                     ))}
                 </div>
