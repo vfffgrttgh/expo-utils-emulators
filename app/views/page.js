@@ -4,6 +4,7 @@ export default function Page() {
     const data = [
         { id: 1, src: "https://appetize.io/embed/6q5hgbmupyc6c5mhznjd37goga?device=pixel7" },
         { id: 2, src: "https://appetize.io/embed/7kfu7r2ugwm7c4risjyigiuhve?device=iphone16pro" },
+        { id: 3, src: "http://localhost:8081" },
     ];
 
     return (
