@@ -21,7 +21,7 @@ export default function HomePage() {
                 <div className="w-fit h-fit p-3 m-3 rounded-lg bg-red-500">
                     <h1 className="text-3xl text-white font-bold font-mono">Step 3</h1>
                     <h3 className="text-xl text-white">You click on the name<br />
-                        (hyperlink) and view your app<br />
+                        and view your app<br />
                         in a web-based simulator.
                     </h3>
                 </div>
